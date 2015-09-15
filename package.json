@@ -1,0 +1,33 @@
+{
+  "name": "tcomb-postcss",
+  "version": "1.0.0",
+  "description": "Extends the tcomb library with PostCSS irreducible node types.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run tape",
+    "tape": "tape 'test/*.js'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jedmao/tcomb-postcss.git"
+  },
+  "keywords": [
+    "tcomb",
+    "postcss",
+    "type",
+    "checking"
+  ],
+  "author": "Jed Mao <jedmao@outlook.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jedmao/tcomb-postcss/issues"
+  },
+  "homepage": "https://github.com/jedmao/tcomb-postcss#readme",
+  "dependencies": {
+    "tcomb": "^2.4.1"
+  },
+  "devDependencies": {
+    "postcss": "^5.0.5",
+    "tape": "^4.2.0"
+  }
+}
