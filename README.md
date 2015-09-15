@@ -4,9 +4,9 @@ Extends the [`tcomb`](https://github.com/gcanti/tcomb) library with [`PostCSS`](
 
 The following types are added to tcomb:
 - [`Container`](https://github.com/postcss/postcss/blob/master/lib/container.es6)
-- [`Root`](https://github.com/postcss/postcss/blob/master/lib/root.es6)
-- [`Rule`](https://github.com/postcss/postcss/blob/master/lib/rule.es6)
-- [`AtRule`](https://github.com/postcss/postcss/blob/master/lib/at-rule.es6)
+  - [`Root`](https://github.com/postcss/postcss/blob/master/lib/root.es6)
+  - [`Rule`](https://github.com/postcss/postcss/blob/master/lib/rule.es6)
+  - [`AtRule`](https://github.com/postcss/postcss/blob/master/lib/at-rule.es6)
 - [`Decl`](https://github.com/postcss/postcss/blob/master/lib/declaration.es6)
 - [`Comment`](https://github.com/postcss/postcss/blob/master/lib/comment.es6)
 
