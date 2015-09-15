@@ -9,7 +9,6 @@ The following types are added to tcomb:
 - [`AtRule`](https://github.com/postcss/postcss/blob/master/lib/at-rule.es6)
 - [`Decl`](https://github.com/postcss/postcss/blob/master/lib/declaration.es6)
 - [`Comment`](https://github.com/postcss/postcss/blob/master/lib/comment.es6)
-- [`Warning`](https://github.com/postcss/postcss/blob/master/lib/warning.es6)
 
 ## Usage
 
